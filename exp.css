@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+}
+.body{
+    background-color: #676788;
+}
+nav{
+    flex: 1;
+    text-align: center;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-flex;
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+a:hover{
+    color: purple;
+}
